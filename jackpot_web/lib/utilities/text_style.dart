@@ -6,7 +6,6 @@ final TextStyle displayLarge = TextStyle(
   fontFamily: "Pretendard",
   fontSize: 30.sp,
   fontWeight: FontWeight.w700,
-  height: 28.sp / 24.sp,
   color: Colors.white,
 );
 
@@ -23,7 +22,7 @@ final TextStyle displaySmall = TextStyle(
   fontSize: 12.sp,
   fontWeight: FontWeight.w300,
   height: 18.sp / 14.sp,
-  color: const Color.fromRGBO(255, 255, 255, 50),
+  color: const Color(0xff646464),
 );
 
 // Pretendard / Body @@@@@@@@@@@@@@@@@@@@@@@@@@@
